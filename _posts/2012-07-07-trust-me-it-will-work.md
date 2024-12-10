@@ -1,135 +1,49 @@
 ---
-date: 2018-03-12 12:26:40
+date: 2024-12-10 12:26:40
 layout: post
-title: Trust me, it will work
-subtitle: Lorem ipsum dolor sit amet, consectetur adipisicing elit.
-description: Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-image: https://res.cloudinary.com/dm7h7e8xj/image/upload/v1559821648/theme1_eoyjtl.jpg
-optimized_image: https://res.cloudinary.com/dm7h7e8xj/image/upload/c_scale,w_380/v1559821648/theme1_eoyjtl.jpg
-category: 'tips'
+title: La mia scuola di grafica: i prof, le materie e le prime impressioni! 
+subtitle: Vi racconto tutto sulla mia esperienza in una scuola regionale di grafica e comunicazione: spoiler, ci sono prof simpatici e materie fighissime! 
+description: Studiare grafica in una scuola regionale significa iniziare SUBITO con le materie di indirizzo! Vi racconto i miei primi mesi, con recensioni sincere (ma con affetto 😜) sui prof e le materie: da Storia dell’Arte a Fotografia, passando per Progettazione e Illustrazione. Chi è il prof migliore? E chi mi sta meno simpatico? Leggete e scopritelo! 
+image: https://www.isitgo.it/assets/img/isitgo/corsi-studio/gec/gec3.jpg 
+optimized_image: https://www.isitgo.it/assets/img/isitgo/corsi-studio/gec/gec3.jpg 
+category: 'scuola'
 tags:
-  - languages
-  - tips
-author: mranderson
+  - scuola
+  - recensioni
+author: GabrielJones
+---
+**Per chi non lo sapesse...** ebbene sì, io studio grafica e comunicazione in una scuola regionale, che è tipo super diversa dalle statali. Qui iniziamo SUBITO con le materie di indirizzo, tipo dal primo giorno! Vi giuro, è un’esperienza che ci sta davvero tantissimo! Ma adesso veniamo alla vera star di questo post: la **recensione delle materie e dei prof**, perché sì, qui si dice TUTTO (con affetto, eh). 💀💬  
+
 ---
 
-Cas sociis natoque penatibus et magnis <a href="#">dis parturient montes</a>, nascetur ridiculus mus. *Aenean eu leo quam.* Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.
+### **1. Storia dell’arte 🎨**  
+Il prof è simpatico, e onestamente penso che anche lui mi trovi simpatico (o almeno spero 😅). Però... devo dirlo: spiega un po’ male. Tipo che ogni tanto devi collegare i puntini da solo per capire cosa sta dicendo. Però sapete cosa? È una persona super divertente, quindi alla fine sopravvivo! 😂  
 
-> Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.
+---
 
-Etiam porta **sem malesuada magna** mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.
+### **2. Progettazione 💻**  
+Ok, qui cambia musica. Questo prof non mi sta proprio simpaticissimo, diciamo così. Non ho idea di cosa pensi di me, ma sinceramente... amen. Quello che conta è che spiega BENISSIMO! È evidente che ama la sua materia e si vede lontano un chilometro che è un vero professionista. Questo lo rispetto un sacco. Alla fine della giornata, mi piace lavorare con lui.  
 
-## Inline HTML elements
+---
 
-HTML defines a long list of available inline tags, a complete list of which can be found on the [Mozilla Developer Network](https://developer.mozilla.org/en-US/docs/Web/HTML/Element).
+### **3. Font (o Tipografia? Boh, chiamatela come volete) ✒️**  
+Nemmeno questo prof è tra i miei preferiti dal punto di vista umano, ma oh, non si può avere tutto nella vita, giusto? Comunque, mi piace lavorare con lui. Fa fare progetti carini e alla fine della lezione ti rendi conto che hai imparato qualcosa di utile. Non so che altro dire su di lui, ma ehi, funziona così.  
 
-- **To bold text**, use `<strong>`.
-- *To italicize text*, use `<em>`.
-- Abbreviations, like <abbr title="HyperText Markup Langage">HTML</abbr> should use `<abbr>`, with an optional `title` attribute for the full phrase.
-- Citations, like <cite>&mdash; Thomas A. Anderson</cite>, should use `<cite>`.
-- <del>Deleted</del> text should use `<del>` and <ins>inserted</ins> text should use `<ins>`.
-- Superscript <sup>text</sup> uses `<sup>` and subscript <sub>text</sub> uses `<sub>`.
+---
 
-Most of these elements are styled by browsers with few modifications on our part.
+### **4. Illustrazione ✍️**  
+Qui il mood cambia del tutto: mi sta simpatica! E devo dire che è bello fare arte senza PC per una volta. Tipo che disegniamo davvero con le mani, e no, non è una cosa scontata. In questi mesi abbiamo fatto un sacco di lavori fighi e lei è proprio il tipo di prof che rende le cose interessanti. Ci sta!  
 
-# Heading 1
+---
 
-## Heading 2
+### **5. Cinema 🎥**  
+Lei è la MVP, raga! Mi sta TROPPO simpatica e spiega in un modo che capisci tutto al volo. Facciamo lavori belli belli e seriamente, si vede che ama la sua materia. Questo per me è oro puro, perché ci sono tanti prof che si limitano a insegnare per dovere, mentre lei ci mette passione vera. Prof, se stai leggendo questo post... **continua così!** Sei bravissima e meriti tutti i complimenti del mondo! 🌟  
 
-### Heading 3
+---
 
-#### Heading 4
+### **6. Fotografia 📸**  
+Qui siamo a livelli altissimi, raga. La prof è simpatica, ti fa fare lavori che ti tengono incollato alla materia e taglia tutta la parte noiosa. Tipo che vai diretto al punto e fai cose fighe. Questo è difficilissimo, perché diciamocelo: non è facile rendere una materia interessante per tutti, ma lei ci riesce. Le lezioni sono una bomba e le foto che facciamo sono una soddisfazione continua.  
 
-Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.
+---
 
-## Code
-
-Cum sociis natoque penatibus et magnis dis `code element` montes, nascetur ridiculus mus.
-
-```js
-// Example can be run directly in your JavaScript console
-
-// Create a function that takes two arguments and returns the sum of those arguments
-var adder = new Function("a", "b", "return a + b");
-
-// Call the function
-adder(2, 6);
-// > 8
-```
-
-Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.
-
-## Lists
-
-Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.
-
-* Praesent commodo cursus magna, vel scelerisque nisl consectetur et.
-* Donec id elit non mi porta gravida at eget metus.
-* Nulla vitae elit libero, a pharetra augue.
-
-Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.
-
-1. Vestibulum id ligula porta felis euismod semper.
-2. Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-3. Maecenas sed diam eget risus varius blandit sit amet non magna.
-
-Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.
-
-Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-## Images
-
-Quisque consequat sapien eget quam rhoncus, sit amet laoreet diam tempus. Aliquam aliquam metus erat, a pulvinar turpis suscipit at.
-
-![placeholder](https://placehold.it/800x400 "Large example image")
-![placeholder](https://placehold.it/400x200 "Medium example image")
-![placeholder](https://placehold.it/200x200 "Small example image")
-
-## Tables
-
-Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-
-<table>
-  <thead>
-    <tr>
-      <th>Name</th>
-      <th>Upvotes</th>
-      <th>Downvotes</th>
-    </tr>
-  </thead>
-  <tfoot>
-    <tr>
-      <td>Totals</td>
-      <td>21</td>
-      <td>23</td>
-    </tr>
-  </tfoot>
-  <tbody>
-    <tr>
-      <td>Alice</td>
-      <td>10</td>
-      <td>11</td>
-    </tr>
-    <tr>
-      <td>Bob</td>
-      <td>4</td>
-      <td>3</td>
-    </tr>
-    <tr>
-      <td>Charlie</td>
-      <td>7</td>
-      <td>9</td>
-    </tr>
-  </tbody>
-</table>
-
-Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.
-
-
-
-
-
-
-
-
-
+**Conclusione?** Mi piace davvero come stanno andando le cose in queste materie! Certo, non tutti i prof sono "amici" ma apprezzo chi sa insegnare con passione. E voi? Fatemi sapere cosa ne pensate delle vostre materie, sono curiosissimo di sapere chi ha i prof più strani! 😜
